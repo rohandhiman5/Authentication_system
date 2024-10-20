@@ -7,7 +7,7 @@ This authentication system was created as part of my *Database and Information S
 - **Django**: Backend development
 - **HTML/CSS**: Frontend structure and styling
 - **MySQL**: Database management
-- 
+  
 ## 🎯 Purpose
 To demonstrate my web development skills using Django as part of my coursework.
 
