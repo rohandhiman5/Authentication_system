@@ -12,7 +12,7 @@ def signup_action(request):
     global fn,ln,mobile,email,Password
 
     if(request.method=="POST"):
-        obj =sql.connect(host="localhost",user='root',password='Rohandhiman2005@',database='website')
+        obj =sql.connect(host="localhost",user='root',password='****',database='website')
         cursor=obj.cursor()
         
         data=request.POST
